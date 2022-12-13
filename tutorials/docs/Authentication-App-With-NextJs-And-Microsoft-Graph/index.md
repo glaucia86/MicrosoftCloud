@@ -1,4 +1,4 @@
-# Workshop: Authentication App with Next.js and Microsoft Graph
+# Authentication App with Next.js and Microsoft Graph
 
 **Level**: Beginner-Intermediate
 

@@ -1,4 +1,4 @@
-# Workshop: Take a Break Reminder App
+# Take a Break Reminder App
 
 ![Reminder App](/img/authentication-workshop/reminder.gif "Reminder App")
 
